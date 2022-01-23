@@ -15,7 +15,7 @@ This is Flow cadence contract folder, unit test use flow-js-testing, and some .s
 
 [ccs-dappstarter](https://github.com/script-money/ccs-dappstarter) This is local Flow enumlator environment, and integration testing
 
-[ccs-web](https://github.com/crypto-chasers/ccs-web)
+[ccs-web](https://github.com/script-money/ccs-web)
 This is UI for using dapp, build by vite/tailwindcss/react
 
 [ccs-server](https://github.com/script-money/ccs-server)
